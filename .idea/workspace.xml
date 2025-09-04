@@ -1,0 +1,210 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="c36ca03c-ad17-4440-8dbd-62c894e93a90" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/Assets/External.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/External/AQUAS-Lite.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/External/AQUAS-Lite/Demo.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/External/AQUAS-Lite/Demo/ALiteDemoTerrain.asset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/External/AQUAS-Lite/Demo/ALiteDemoTerrain.asset.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/External/AQUAS-Lite/Demo/DEMO.unity" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/External/AQUAS-Lite/Demo/DEMO.unity.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/External/AQUAS-Lite/Demo/Textures.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/External/AQUAS-Lite/Demo/Textures/Cliffs.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/External/AQUAS-Lite/Demo/Textures/Cliffs.jpg.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/External/AQUAS-Lite/Demo/Textures/Cliffs_normal.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/External/AQUAS-Lite/Demo/Textures/Cliffs_normal.jpg.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/External/AQUAS-Lite/Demo/Textures/Grass.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/External/AQUAS-Lite/Demo/Textures/Grass.jpg.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/External/AQUAS-Lite/Demo/Textures/Grass_normal.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/External/AQUAS-Lite/Demo/Textures/Grass_normal.jpg.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/External/AQUAS-Lite/Demo/Textures/Gravel.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/External/AQUAS-Lite/Demo/Textures/Gravel.jpg.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/External/AQUAS-Lite/Demo/Textures/Gravel_normal.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/External/AQUAS-Lite/Demo/Textures/Gravel_normal.jpg.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/External/AQUAS-Lite/Demo/Textures/RockGrassy.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/External/AQUAS-Lite/Demo/Textures/RockGrassy.jpg.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/External/AQUAS-Lite/Demo/Textures/RockGrassy_normal.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/External/AQUAS-Lite/Demo/Textures/RockGrassy_normal.jpg.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/External/AQUAS-Lite/Materials.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/External/AQUAS-Lite/Materials/AQUAS_Lite_Water.mat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/External/AQUAS-Lite/Materials/AQUAS_Lite_Water.mat.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/External/AQUAS-Lite/Materials/AQUAS_Lite_Water_Backface.mat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/External/AQUAS-Lite/Materials/AQUAS_Lite_Water_Backface.mat.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/External/AQUAS-Lite/Models.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/External/AQUAS-Lite/Models/Materials.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/External/AQUAS-Lite/Models/Materials/WaterSimpleDaylight.mat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/External/AQUAS-Lite/Models/Materials/WaterSimpleDaylight.mat.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/External/AQUAS-Lite/Models/WaterPlane.fbx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/External/AQUAS-Lite/Models/WaterPlane.fbx.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/External/AQUAS-Lite/Prefabs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/External/AQUAS-Lite/Prefabs/WaterPlane.prefab" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/External/AQUAS-Lite/Prefabs/WaterPlane.prefab.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/External/AQUAS-Lite/Readme.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/External/AQUAS-Lite/Readme.txt.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/External/AQUAS-Lite/Scripts.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/External/AQUAS-Lite/Scripts/AQUAS_Lite_CamNav.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/External/AQUAS-Lite/Scripts/AQUAS_Lite_CamNav.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/External/AQUAS-Lite/Scripts/AQUAS_Lite_Camera.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/External/AQUAS-Lite/Scripts/AQUAS_Lite_Camera.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/External/AQUAS-Lite/Scripts/AQUAS_Lite_Reflection.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/External/AQUAS-Lite/Scripts/AQUAS_Lite_Reflection.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/External/AQUAS-Lite/Shaders.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/External/AQUAS-Lite/Shaders/AQUAS-Lite_Backface.shader" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/External/AQUAS-Lite/Shaders/AQUAS-Lite_Backface.shader.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/External/AQUAS-Lite/Shaders/AQUAS-Lite_Frontface.shader" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/External/AQUAS-Lite/Shaders/AQUAS-Lite_Frontface.shader.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/External/AQUAS-Lite/Textures.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/External/AQUAS-Lite/Textures/AQUAS_Foam.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/External/AQUAS-Lite/Textures/AQUAS_Foam.jpg.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/External/AQUAS-Lite/Textures/Waves_HiRes.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/External/AQUAS-Lite/Textures/Waves_HiRes.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/External/AQUAS-Lite/Textures/Waves_LoRes.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/External/AQUAS-Lite/Textures/Waves_LoRes.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Prefabs/WaterPlane.prefab" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Prefabs/WaterPlane.prefab.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Scripts/water.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Scripts/water/waterSurfaceMovement.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Scripts/water/waterSurfaceMovement.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Shaders/CausaticProjector.shader" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Shaders/CausaticProjector.shader.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Shaders/New Material.mat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Shaders/New Material.mat.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Textures.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Textures/_TerrainAutoUpgrade.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Textures/_TerrainAutoUpgrade/layer_Cliffs608c3929b87867c.terrainlayer" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Textures/_TerrainAutoUpgrade/layer_Cliffs608c3929b87867c.terrainlayer.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Textures/_TerrainAutoUpgrade/layer_Grass608c3929b87867c.terrainlayer" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Textures/_TerrainAutoUpgrade/layer_Grass608c3929b87867c.terrainlayer.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Textures/_TerrainAutoUpgrade/layer_Gravel608c3929b87867c.terrainlayer" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Textures/_TerrainAutoUpgrade/layer_Gravel608c3929b87867c.terrainlayer.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Textures/_TerrainAutoUpgrade/layer_RockGrassy608c3929b87867c.terrainlayer" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Textures/_TerrainAutoUpgrade/layer_RockGrassy608c3929b87867c.terrainlayer.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Textures/wave.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Textures/wave.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/_TerrainAutoUpgrade.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/_TerrainAutoUpgrade/layer_Cliffs608c3929b87867c.terrainlayer" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/_TerrainAutoUpgrade/layer_Cliffs608c3929b87867c.terrainlayer.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/_TerrainAutoUpgrade/layer_Grass608c3929b87867c.terrainlayer" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/_TerrainAutoUpgrade/layer_Grass608c3929b87867c.terrainlayer.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/_TerrainAutoUpgrade/layer_Gravel608c3929b87867c.terrainlayer" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/_TerrainAutoUpgrade/layer_Gravel608c3929b87867c.terrainlayer.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/_TerrainAutoUpgrade/layer_RockGrassy608c3929b87867c.terrainlayer" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/_TerrainAutoUpgrade/layer_RockGrassy608c3929b87867c.terrainlayer.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scenes/Mariana Trench.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/Mariana Trench.unity" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Textures/Sand textures pack.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Textures/Sand textures pack.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Textures/Sand textures pack/Sand 01.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Textures/Sand textures pack/Sand 01.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Textures/Sand textures pack/Sand 01/Sand pattern 01.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Textures/Sand textures pack/Sand 01/Sand pattern 01.mat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Textures/Sand textures pack/Sand 01/Sand pattern 01.mat.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Textures/Sand textures pack/Sand 01/Sand pattern 01.mat.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Textures/Sand textures pack/Sand 01/diffuse.tga" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Textures/Sand textures pack/Sand 01/diffuse.tga" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Textures/Sand textures pack/Sand 01/diffuse.tga.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Textures/Sand textures pack/Sand 01/diffuse.tga.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Textures/Sand textures pack/Sand 01/normal.tga" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Textures/Sand textures pack/Sand 01/normal.tga" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Textures/Sand textures pack/Sand 01/normal.tga.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Textures/Sand textures pack/Sand 01/normal.tga.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Textures/Sand textures pack/Sand 01/preview.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Textures/Sand textures pack/Sand 01/preview.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Textures/Sand textures pack/Sand 01/preview.jpg.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Textures/Sand textures pack/Sand 01/preview.jpg.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Textures/Sand textures pack/Sand 02.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Textures/Sand textures pack/Sand 02.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Textures/Sand textures pack/Sand 02/Sand pattern 02.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Textures/Sand textures pack/Sand 02/Sand pattern 02.mat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Textures/Sand textures pack/Sand 02/Sand pattern 02.mat.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Textures/Sand textures pack/Sand 02/Sand pattern 02.mat.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Textures/Sand textures pack/Sand 02/diffuse.tga" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Textures/Sand textures pack/Sand 02/diffuse.tga" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Textures/Sand textures pack/Sand 02/diffuse.tga.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Textures/Sand textures pack/Sand 02/diffuse.tga.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Textures/Sand textures pack/Sand 02/normal.tga" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Textures/Sand textures pack/Sand 02/normal.tga" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Textures/Sand textures pack/Sand 02/normal.tga.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Textures/Sand textures pack/Sand 02/normal.tga.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Textures/Sand textures pack/Sand 02/preview.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Textures/Sand textures pack/Sand 02/preview.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Textures/Sand textures pack/Sand 02/preview.jpg.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Textures/Sand textures pack/Sand 02/preview.jpg.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Textures/Sand textures pack/Sand 03.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Textures/Sand textures pack/Sand 03.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Textures/Sand textures pack/Sand 03/Sand pattern 03.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Textures/Sand textures pack/Sand 03/Sand pattern 03.mat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Textures/Sand textures pack/Sand 03/Sand pattern 03.mat.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Textures/Sand textures pack/Sand 03/Sand pattern 03.mat.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Textures/Sand textures pack/Sand 03/diffuse.tga" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Textures/Sand textures pack/Sand 03/diffuse.tga" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Textures/Sand textures pack/Sand 03/diffuse.tga.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Textures/Sand textures pack/Sand 03/diffuse.tga.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Textures/Sand textures pack/Sand 03/normal.tga" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Textures/Sand textures pack/Sand 03/normal.tga" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Textures/Sand textures pack/Sand 03/normal.tga.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Textures/Sand textures pack/Sand 03/normal.tga.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Textures/Sand textures pack/Sand 03/preview.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Textures/Sand textures pack/Sand 03/preview.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Textures/Sand textures pack/Sand 03/preview.jpg.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Textures/Sand textures pack/Sand 03/preview.jpg.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Textures/Sand textures pack/Sand 04.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Textures/Sand textures pack/Sand 04.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Textures/Sand textures pack/Sand 04/Sand pattern 04.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Textures/Sand textures pack/Sand 04/Sand pattern 04.mat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Textures/Sand textures pack/Sand 04/Sand pattern 04.mat.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Textures/Sand textures pack/Sand 04/Sand pattern 04.mat.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Textures/Sand textures pack/Sand 04/diffuse.tga" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Textures/Sand textures pack/Sand 04/diffuse.tga" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Textures/Sand textures pack/Sand 04/diffuse.tga.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Textures/Sand textures pack/Sand 04/diffuse.tga.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Textures/Sand textures pack/Sand 04/normal.tga" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Textures/Sand textures pack/Sand 04/normal.tga" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Textures/Sand textures pack/Sand 04/normal.tga.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Textures/Sand textures pack/Sand 04/normal.tga.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Textures/Sand textures pack/Sand 04/preview.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Textures/Sand textures pack/Sand 04/preview.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Textures/Sand textures pack/Sand 04/preview.jpg.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Textures/Sand textures pack/Sand 04/preview.jpg.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Textures/Sand textures pack/Sand 05.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Textures/Sand textures pack/Sand 05.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Textures/Sand textures pack/Sand 05/Sand pattern 05.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Textures/Sand textures pack/Sand 05/Sand pattern 05.mat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Textures/Sand textures pack/Sand 05/Sand pattern 05.mat.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Textures/Sand textures pack/Sand 05/Sand pattern 05.mat.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Textures/Sand textures pack/Sand 05/diffuse.tga" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Textures/Sand textures pack/Sand 05/diffuse.tga" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Textures/Sand textures pack/Sand 05/diffuse.tga.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Textures/Sand textures pack/Sand 05/diffuse.tga.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Textures/Sand textures pack/Sand 05/normal.tga" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Textures/Sand textures pack/Sand 05/normal.tga" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Textures/Sand textures pack/Sand 05/normal.tga.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Textures/Sand textures pack/Sand 05/normal.tga.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Textures/Sand textures pack/Sand 05/preview.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Textures/Sand textures pack/Sand 05/preview.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Textures/Sand textures pack/Sand 05/preview.jpg.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Textures/Sand textures pack/Sand 05/preview.jpg.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Textures/Sand textures pack/Sand 06.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Textures/Sand textures pack/Sand 06.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Textures/Sand textures pack/Sand 06/Sand pattern 06.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Textures/Sand textures pack/Sand 06/Sand pattern 06.mat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Textures/Sand textures pack/Sand 06/Sand pattern 06.mat.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Textures/Sand textures pack/Sand 06/Sand pattern 06.mat.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Textures/Sand textures pack/Sand 06/diffuse.tga" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Textures/Sand textures pack/Sand 06/diffuse.tga" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Textures/Sand textures pack/Sand 06/diffuse.tga.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Textures/Sand textures pack/Sand 06/diffuse.tga.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Textures/Sand textures pack/Sand 06/normal.tga" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Textures/Sand textures pack/Sand 06/normal.tga" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Textures/Sand textures pack/Sand 06/normal.tga.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Textures/Sand textures pack/Sand 06/normal.tga.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Textures/Sand textures pack/Sand 06/preview.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Textures/Sand textures pack/Sand 06/preview.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Textures/Sand textures pack/Sand 06/preview.jpg.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Textures/Sand textures pack/Sand 06/preview.jpg.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Textures/Sand textures pack/Sand 07.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Textures/Sand textures pack/Sand 07.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Textures/Sand textures pack/Sand 07/Sand pattern 07.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Textures/Sand textures pack/Sand 07/Sand pattern 07.mat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Textures/Sand textures pack/Sand 07/Sand pattern 07.mat.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Textures/Sand textures pack/Sand 07/Sand pattern 07.mat.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Textures/Sand textures pack/Sand 07/diffuse.tga" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Textures/Sand textures pack/Sand 07/diffuse.tga" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Textures/Sand textures pack/Sand 07/diffuse.tga.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Textures/Sand textures pack/Sand 07/diffuse.tga.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Textures/Sand textures pack/Sand 07/normal.tga" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Textures/Sand textures pack/Sand 07/normal.tga" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Textures/Sand textures pack/Sand 07/normal.tga.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Textures/Sand textures pack/Sand 07/normal.tga.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Textures/Sand textures pack/Sand 07/preview.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Textures/Sand textures pack/Sand 07/preview.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Textures/Sand textures pack/Sand 07/preview.jpg.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Textures/Sand textures pack/Sand 07/preview.jpg.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Textures/Sand textures pack/Sand 08.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Textures/Sand textures pack/Sand 08.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Textures/Sand textures pack/Sand 08/Sand pattern 08.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Textures/Sand textures pack/Sand 08/Sand pattern 08.mat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Textures/Sand textures pack/Sand 08/Sand pattern 08.mat.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Textures/Sand textures pack/Sand 08/Sand pattern 08.mat.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Textures/Sand textures pack/Sand 08/diffuse.tga" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Textures/Sand textures pack/Sand 08/diffuse.tga" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Textures/Sand textures pack/Sand 08/diffuse.tga.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Textures/Sand textures pack/Sand 08/diffuse.tga.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Textures/Sand textures pack/Sand 08/normal.tga" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Textures/Sand textures pack/Sand 08/normal.tga" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Textures/Sand textures pack/Sand 08/normal.tga.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Textures/Sand textures pack/Sand 08/normal.tga.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Textures/Sand textures pack/Sand 08/preview.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Textures/Sand textures pack/Sand 08/preview.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Textures/Sand textures pack/Sand 08/preview.jpg.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Textures/Sand textures pack/Sand 08/preview.jpg.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Textures/Sand textures pack/Sand 09.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Textures/Sand textures pack/Sand 09.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Textures/Sand textures pack/Sand 09/Sand pattern 09.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Textures/Sand textures pack/Sand 09/Sand pattern 09.mat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Textures/Sand textures pack/Sand 09/Sand pattern 09.mat.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Textures/Sand textures pack/Sand 09/Sand pattern 09.mat.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Textures/Sand textures pack/Sand 09/diffuse.tga" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Textures/Sand textures pack/Sand 09/diffuse.tga" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Textures/Sand textures pack/Sand 09/diffuse.tga.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Textures/Sand textures pack/Sand 09/diffuse.tga.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Textures/Sand textures pack/Sand 09/normal.tga" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Textures/Sand textures pack/Sand 09/normal.tga" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Textures/Sand textures pack/Sand 09/normal.tga.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Textures/Sand textures pack/Sand 09/normal.tga.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Textures/Sand textures pack/Sand 09/preview.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Textures/Sand textures pack/Sand 09/preview.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Textures/Sand textures pack/Sand 09/preview.jpg.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Textures/Sand textures pack/Sand 09/preview.jpg.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProjectSettings/QualitySettings.asset" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectSettings/QualitySettings.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProjectSettings/TagManager.asset" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectSettings/TagManager.asset" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="2ZYm0KdSo8H00SafPNAgLGlP6EV" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c36ca03c-ad17-4440-8dbd-62c894e93a90" name="Changes" comment="" />
+      <created>1702607164748</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1702607164748</updated>
+    </task>
+    <servers />
+  </component>
+</project>

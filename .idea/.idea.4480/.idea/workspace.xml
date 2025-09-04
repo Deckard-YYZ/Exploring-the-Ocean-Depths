@@ -1,0 +1,543 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="45a69f24-8fa8-4c2b-96e8-b578fd91915a" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="master" />
+      </map>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="RESET_MODE" value="HARD" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/10871f9e312b442cb78b9b97db88fdcb172a00/22/dc1d7164/Vector3.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/10871f9e312b442cb78b9b97db88fdcb172a00/e5/7b9ef7c6/Random.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/5a41d6b7189842eca409fd0b1c3e3dcf17bf78/72/8d4688de/Single.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock://C:/Users/43534/Github/4480/Assets/Scripts/Coral Generation/BlocksController.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock://C:/Users/43534/Github/4480/Assets/Scripts/Coral Generation/BlocksController.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Coral Generation/BlocksController.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Coral Generation/CoralGenrator.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Coral Generation/LocalToWorld.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Coral Generation/SortedHeightObjectGenerator.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Fish Evolution/Fish Player/FishStats.cs" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="MetaFilesCheckinStateConfiguration" checkMetaFiles="false" />
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="SWEA" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 8
+}</component>
+  <component name="ProjectId" id="2d2BPLKeoJdZHePr6g7COYoX5c0" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "git-widget-placeholder": "heightChange",
+    "node.js.detected.package.eslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "SolutionBuilderGeneralOptionsPage",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RunManager" selected="Attach to Unity Editor.Attach to Unity Editor">
+    <configuration name="Standalone Player" type="RunUnityExe" factoryName="Unity Executable">
+      <option name="EXE_PATH" value="$PROJECT_DIR$/Builds\Ocean Explorer.exe" />
+      <option name="PROGRAM_PARAMETERS" value="" />
+      <option name="WORKING_DIRECTORY" value="C:\Users\43534\Github\4480\Builds" />
+      <option name="PASS_PARENT_ENVS" value="1" />
+      <option name="USE_EXTERNAL_CONSOLE" value="0" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Start Unity" type="RunUnityExe" factoryName="Unity Executable">
+      <option name="EXE_PATH" value="C:\Program Files\Unity\Hub\Editor\2022.3.25f1\Editor\Unity.exe" />
+      <option name="PROGRAM_PARAMETERS" value="-projectPath C:\Users\43534\Github\4480 -debugCodeOptimization" />
+      <option name="WORKING_DIRECTORY" value="C:\Users\43534\Github\4480" />
+      <option name="PASS_PARENT_ENVS" value="1" />
+      <option name="USE_EXTERNAL_CONSOLE" value="0" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Start Unity" type="RunUnityExe" factoryName="Unity Executable">
+      <option name="EXE_PATH" value="C:\Program Files\Unity\Hub\Editor\2022.3.25f1\Editor\Unity.exe" />
+      <option name="PROGRAM_PARAMETERS" value="-projectPath C:\Users\43534\Github\4480 -debugCodeOptimization" />
+      <option name="WORKING_DIRECTORY" value="C:\Users\43534\Github\4480" />
+      <option name="PASS_PARENT_ENVS" value="1" />
+      <option name="USE_EXTERNAL_CONSOLE" value="0" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Start Unity" type="RunUnityExe" factoryName="Unity Executable">
+      <option name="EXE_PATH" value="C:\Program Files\Unity\Hub\Editor\2022.3.9f1\Editor\Unity.exe" />
+      <option name="PROGRAM_PARAMETERS" value="-projectPath C:\Users\43534\Github\4480 -debugCodeOptimization" />
+      <option name="WORKING_DIRECTORY" value="C:\Users\43534\Github\4480" />
+      <option name="PASS_PARENT_ENVS" value="1" />
+      <option name="USE_EXTERNAL_CONSOLE" value="0" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Unit Tests (batch mode)" type="RunUnityExe" factoryName="Unity Executable">
+      <option name="EXE_PATH" value="C:\Program Files\Unity\Hub\Editor\2022.3.25f1\Editor\Unity.exe" />
+      <option name="PROGRAM_PARAMETERS" value="-runTests -batchmode -projectPath C:\Users\43534\Github\4480 -testResults Logs/results.xml -testPlatform EditMode -debugCodeOptimization" />
+      <option name="WORKING_DIRECTORY" value="C:\Users\43534\Github\4480" />
+      <option name="PASS_PARENT_ENVS" value="1" />
+      <option name="USE_EXTERNAL_CONSOLE" value="0" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Unit Tests (batch mode)" type="RunUnityExe" factoryName="Unity Executable">
+      <option name="EXE_PATH" value="C:\Program Files\Unity\Hub\Editor\2022.3.25f1\Editor\Unity.exe" />
+      <option name="PROGRAM_PARAMETERS" value="-runTests -batchmode -projectPath C:\Users\43534\Github\4480 -testResults Logs/results.xml -testPlatform EditMode -debugCodeOptimization" />
+      <option name="WORKING_DIRECTORY" value="C:\Users\43534\Github\4480" />
+      <option name="PASS_PARENT_ENVS" value="1" />
+      <option name="USE_EXTERNAL_CONSOLE" value="0" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Unit Tests (batch mode)" type="RunUnityExe" factoryName="Unity Executable">
+      <option name="EXE_PATH" value="C:\Program Files\Unity\Hub\Editor\2022.3.9f1\Editor\Unity.exe" />
+      <option name="PROGRAM_PARAMETERS" value="-runTests -batchmode -projectPath C:\Users\43534\Github\4480 -testResults Logs/results.xml -testPlatform EditMode -debugCodeOptimization" />
+      <option name="WORKING_DIRECTORY" value="C:\Users\43534\Github\4480" />
+      <option name="PASS_PARENT_ENVS" value="1" />
+      <option name="USE_EXTERNAL_CONSOLE" value="0" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Attach to Unity Editor &amp; Play" type="UNITY_DEBUG_RUN_CONFIGURATION" factoryName="UNITY_ATTACH_AND_PLAY" show_console_on_std_err="false" show_console_on_std_out="false" port="50000" address="localhost">
+      <option name="allowRunningInParallel" value="false" />
+      <option name="listenPortForConnections" value="false" />
+      <option name="pid" />
+      <option name="projectPathOnTarget" />
+      <option name="runtimes">
+        <list />
+      </option>
+      <option name="selectedOptions">
+        <list />
+      </option>
+      <method v="2" />
+    </configuration>
+    <configuration name="Attach to Unity Editor &amp; Play" type="UNITY_DEBUG_RUN_CONFIGURATION" factoryName="UNITY_ATTACH_AND_PLAY" show_console_on_std_err="false" show_console_on_std_out="false" port="50000" address="localhost">
+      <option name="allowRunningInParallel" value="false" />
+      <option name="listenPortForConnections" value="false" />
+      <option name="pid" />
+      <option name="projectPathOnTarget" />
+      <option name="selectedOptions">
+        <list />
+      </option>
+      <method v="2" />
+    </configuration>
+    <configuration name="Attach to Unity Editor &amp; Play" type="UNITY_DEBUG_RUN_CONFIGURATION" factoryName="UNITY_ATTACH_AND_PLAY" show_console_on_std_err="false" show_console_on_std_out="false" port="50000" address="localhost">
+      <option name="allowRunningInParallel" value="false" />
+      <option name="listenPortForConnections" value="false" />
+      <option name="pid" />
+      <option name="projectPathOnTarget" />
+      <option name="selectedOptions">
+        <list />
+      </option>
+      <method v="2" />
+    </configuration>
+    <configuration name="Attach to Unity Editor" type="UNITY_DEBUG_RUN_CONFIGURATION" factoryName="Unity Debug" show_console_on_std_err="false" show_console_on_std_out="false" port="50000" address="localhost">
+      <option name="allowRunningInParallel" value="false" />
+      <option name="listenPortForConnections" value="false" />
+      <option name="pid" />
+      <option name="projectPathOnTarget" />
+      <option name="runtimes">
+        <list />
+      </option>
+      <option name="selectedOptions">
+        <list />
+      </option>
+      <method v="2" />
+    </configuration>
+    <configuration name="Attach to Unity Editor" type="UNITY_DEBUG_RUN_CONFIGURATION" factoryName="Unity Debug" show_console_on_std_err="false" show_console_on_std_out="false" port="50000" address="localhost">
+      <option name="allowRunningInParallel" value="false" />
+      <option name="listenPortForConnections" value="false" />
+      <option name="pid" />
+      <option name="projectPathOnTarget" />
+      <option name="selectedOptions">
+        <list />
+      </option>
+      <method v="2" />
+    </configuration>
+    <configuration name="Attach to Unity Editor" type="UNITY_DEBUG_RUN_CONFIGURATION" factoryName="Unity Debug" show_console_on_std_err="false" show_console_on_std_out="false" port="50000" address="localhost">
+      <option name="allowRunningInParallel" value="false" />
+      <option name="listenPortForConnections" value="false" />
+      <option name="pid" />
+      <option name="projectPathOnTarget" />
+      <option name="selectedOptions">
+        <list />
+      </option>
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="45a69f24-8fa8-4c2b-96e8-b578fd91915a" name="Changes" comment="" />
+      <created>1709196273021</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1709196273021</updated>
+      <workItem from="1709196278032" duration="685000" />
+      <workItem from="1713187442497" duration="468000" />
+      <workItem from="1713188530484" duration="2174000" />
+      <workItem from="1713272980668" duration="5216000" />
+      <workItem from="1713328113215" duration="3905000" />
+      <workItem from="1713438702270" duration="823000" />
+      <workItem from="1713522051894" duration="781000" />
+      <workItem from="1713525030196" duration="5636000" />
+      <workItem from="1713620324147" duration="846000" />
+      <workItem from="1713627196505" duration="1736000" />
+      <workItem from="1713672825266" duration="49000" />
+      <workItem from="1713672917420" duration="177000" />
+      <workItem from="1713673113517" duration="113000" />
+      <workItem from="1713673242387" duration="266000" />
+      <workItem from="1713673562095" duration="344000" />
+      <workItem from="1713673948709" duration="99000" />
+      <workItem from="1713674094172" duration="137000" />
+      <workItem from="1713674581244" duration="1239000" />
+      <workItem from="1713693686448" duration="3092000" />
+      <workItem from="1713785923657" duration="5159000" />
+      <workItem from="1713844835500" duration="4318000" />
+      <workItem from="1713883108227" duration="8634000" />
+      <workItem from="1713898713519" duration="1432000" />
+      <workItem from="1713947210506" duration="7488000" />
+      <workItem from="1713967329660" duration="8268000" />
+      <workItem from="1713979271994" duration="231000" />
+      <workItem from="1713979663241" duration="1563000" />
+      <workItem from="1713981268568" duration="674000" />
+      <workItem from="1713985665772" duration="2435000" />
+      <workItem from="1714035803648" duration="8843000" />
+      <workItem from="1714055224162" duration="1420000" />
+      <workItem from="1756973549787" duration="39000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="UnityCheckinConfiguration" checkUnsavedScenes="false" />
+  <component name="UnityProjectConfiguration" hasMinimizedUI="true" />
+  <component name="UnityProjectDiscoverer">
+    <option name="hasUnityReference" value="true" />
+    <option name="unityProject" value="true" />
+    <option name="unityProjectFolder" value="true" />
+  </component>
+  <component name="UnityUnitTestConfiguration" currentTestLauncher="Both" />
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="master" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="DotNet Breakpoints">
+          <url>file://$PROJECT_DIR$/Assets/Scripts/Coral Generation/BlocksController.cs</url>
+          <line>214</line>
+          <properties documentPath="C:\Users\43534\Github\4480\Assets\Scripts\Coral Generation\BlocksController.cs" containingFunctionPresentation="Method 'DisableBlocks'">
+            <startOffsets>
+              <option value="9444" />
+            </startOffsets>
+            <endOffsets>
+              <option value="9465" />
+            </endOffsets>
+          </properties>
+          <option name="timeStamp" value="17" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="DotNet Breakpoints">
+          <url>file://$PROJECT_DIR$/Assets/Scripts/Coral Generation/BlocksController.cs</url>
+          <line>206</line>
+          <properties documentPath="C:\Users\43534\Github\4480\Assets\Scripts\Coral Generation\BlocksController.cs" containingFunctionPresentation="Method 'DisableBlocks'">
+            <startOffsets>
+              <option value="8969" />
+            </startOffsets>
+            <endOffsets>
+              <option value="8990" />
+            </endOffsets>
+          </properties>
+          <option name="timeStamp" value="19" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="DotNet Breakpoints">
+          <url>file://$PROJECT_DIR$/Assets/Scripts/Coral Generation/BlocksController.cs</url>
+          <line>207</line>
+          <properties documentPath="C:\Users\43534\Github\4480\Assets\Scripts\Coral Generation\BlocksController.cs" containingFunctionPresentation="Method 'DisableBlocks'">
+            <startOffsets>
+              <option value="9062" />
+            </startOffsets>
+            <endOffsets>
+              <option value="9154" />
+            </endOffsets>
+          </properties>
+          <option name="timeStamp" value="20" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="DotNet Breakpoints">
+          <url>file://$PROJECT_DIR$/Assets/Scripts/Coral Generation/BlocksController.cs</url>
+          <line>196</line>
+          <properties documentPath="C:\Users\43534\Github\4480\Assets\Scripts\Coral Generation\BlocksController.cs" containingFunctionPresentation="Method 'DisableBlocks'">
+            <startOffsets>
+              <option value="8406" />
+            </startOffsets>
+            <endOffsets>
+              <option value="8440" />
+            </endOffsets>
+          </properties>
+          <option name="timeStamp" value="21" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="DotNet Breakpoints">
+          <url>file://$PROJECT_DIR$/Assets/Scripts/Coral Generation/BlocksController.cs</url>
+          <line>197</line>
+          <properties documentPath="C:\Users\43534\Github\4480\Assets\Scripts\Coral Generation\BlocksController.cs" containingFunctionPresentation="Method 'DisableBlocks'">
+            <startOffsets>
+              <option value="8506" />
+            </startOffsets>
+            <endOffsets>
+              <option value="8597" />
+            </endOffsets>
+          </properties>
+          <option name="timeStamp" value="22" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="DotNet Breakpoints">
+          <url>file://$PROJECT_DIR$/Assets/Scripts/Coral Generation/BlocksController.cs</url>
+          <line>188</line>
+          <properties documentPath="C:\Users\43534\Github\4480\Assets\Scripts\Coral Generation\BlocksController.cs" containingFunctionPresentation="Method 'DisableBlocks'">
+            <startOffsets>
+              <option value="7825" />
+            </startOffsets>
+            <endOffsets>
+              <option value="7858" />
+            </endOffsets>
+          </properties>
+          <option name="timeStamp" value="24" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="DotNet Breakpoints">
+          <url>file://$PROJECT_DIR$/Assets/Scripts/Coral Generation/BlocksController.cs</url>
+          <line>190</line>
+          <properties documentPath="C:\Users\43534\Github\4480\Assets\Scripts\Coral Generation\BlocksController.cs" containingFunctionPresentation="Method 'DisableBlocks'">
+            <startOffsets>
+              <option value="8032" />
+            </startOffsets>
+            <endOffsets>
+              <option value="8124" />
+            </endOffsets>
+          </properties>
+          <option name="timeStamp" value="25" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="DotNet Breakpoints">
+          <url>file://$PROJECT_DIR$/Assets/Scripts/Coral Generation/BlocksController.cs</url>
+          <line>215</line>
+          <properties documentPath="C:\Users\43534\Github\4480\Assets\Scripts\Coral Generation\BlocksController.cs" containingFunctionPresentation="Method 'DisableBlocks'">
+            <startOffsets>
+              <option value="9531" />
+            </startOffsets>
+            <endOffsets>
+              <option value="9622" />
+            </endOffsets>
+          </properties>
+          <option name="timeStamp" value="26" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="DotNet Breakpoints">
+          <url>file://$PROJECT_DIR$/Assets/Scripts/Coral Generation/BlocksController.cs</url>
+          <line>216</line>
+          <properties documentPath="C:\Users\43534\Github\4480\Assets\Scripts\Coral Generation\BlocksController.cs" containingFunctionPresentation="Method 'DisableBlocks'">
+            <startOffsets>
+              <option value="9639" />
+            </startOffsets>
+            <endOffsets>
+              <option value="9677" />
+            </endOffsets>
+          </properties>
+          <option name="timeStamp" value="28" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="DotNet Breakpoints">
+          <url>file://$PROJECT_DIR$/Assets/Scripts/Coral Generation/BlocksController.cs</url>
+          <line>218</line>
+          <properties documentPath="C:\Users\43534\Github\4480\Assets\Scripts\Coral Generation\BlocksController.cs" containingFunctionPresentation="Method 'DisableBlocks'">
+            <startOffsets>
+              <option value="9773" />
+            </startOffsets>
+            <endOffsets>
+              <option value="9834" />
+            </endOffsets>
+          </properties>
+          <option name="timeStamp" value="29" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="DotNet Breakpoints">
+          <url>file://$PROJECT_DIR$/Assets/Scripts/Coral Generation/LocalToWorld.cs</url>
+          <line>78</line>
+          <properties documentPath="C:\Users\43534\Github\4480\Assets\Scripts\Coral Generation\LocalToWorld.cs" containingFunctionPresentation="Method 'Start'">
+            <startOffsets>
+              <option value="3074" />
+            </startOffsets>
+            <endOffsets>
+              <option value="3152" />
+            </endOffsets>
+          </properties>
+          <option name="timeStamp" value="30" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="DotNet Breakpoints">
+          <url>file://$PROJECT_DIR$/Assets/Scripts/Coral Generation/BlocksController.cs</url>
+          <line>75</line>
+          <properties documentPath="C:\Users\43534\Github\4480\Assets\Scripts\Coral Generation\BlocksController.cs" containingFunctionPresentation="Method 'PlaceAtRightParentObject'">
+            <startOffsets>
+              <option value="2979" />
+            </startOffsets>
+            <endOffsets>
+              <option value="3019" />
+            </endOffsets>
+          </properties>
+          <option name="timeStamp" value="31" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="DotNet Breakpoints">
+          <url>file://$PROJECT_DIR$/Assets/Scripts/Coral Generation/BlocksController.cs</url>
+          <line>77</line>
+          <properties documentPath="C:\Users\43534\Github\4480\Assets\Scripts\Coral Generation\BlocksController.cs" containingFunctionPresentation="Method 'PlaceAtRightParentObject'">
+            <startOffsets>
+              <option value="3058" />
+            </startOffsets>
+            <endOffsets>
+              <option value="3098" />
+            </endOffsets>
+          </properties>
+          <option name="timeStamp" value="32" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="DotNet Breakpoints">
+          <url>file://$PROJECT_DIR$/Assets/Scripts/Coral Generation/BlocksController.cs</url>
+          <line>80</line>
+          <properties documentPath="C:\Users\43534\Github\4480\Assets\Scripts\Coral Generation\BlocksController.cs" containingFunctionPresentation="Method 'PlaceAtRightParentObject'">
+            <startOffsets>
+              <option value="3227" />
+            </startOffsets>
+            <endOffsets>
+              <option value="3264" />
+            </endOffsets>
+          </properties>
+          <option name="timeStamp" value="33" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="DotNet Breakpoints">
+          <url>file://$PROJECT_DIR$/Assets/Scripts/Coral Generation/BlocksController.cs</url>
+          <line>79</line>
+          <properties documentPath="C:\Users\43534\Github\4480\Assets\Scripts\Coral Generation\BlocksController.cs" containingFunctionPresentation="Method 'PlaceAtRightParentObject'">
+            <startOffsets>
+              <option value="3138" />
+            </startOffsets>
+            <endOffsets>
+              <option value="3218" />
+            </endOffsets>
+          </properties>
+          <option name="timeStamp" value="34" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="DotNet Breakpoints">
+          <url>file://$PROJECT_DIR$/Assets/Scripts/Coral Generation/BlocksController.cs</url>
+          <line>57</line>
+          <properties documentPath="C:\Users\43534\Github\4480\Assets\Scripts\Coral Generation\BlocksController.cs" containingFunctionPresentation="Method 'Awake'">
+            <startOffsets>
+              <option value="2173" />
+            </startOffsets>
+            <endOffsets>
+              <option value="2228" />
+            </endOffsets>
+          </properties>
+          <option name="timeStamp" value="35" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="DotNet Breakpoints">
+          <url>file://$PROJECT_DIR$/Assets/Scripts/Coral Generation/BlocksController.cs</url>
+          <line>154</line>
+          <properties documentPath="C:\Users\43534\Github\4480\Assets\Scripts\Coral Generation\BlocksController.cs" containingFunctionPresentation="Method 'EnableBlocks'">
+            <startOffsets>
+              <option value="6179" />
+            </startOffsets>
+            <endOffsets>
+              <option value="6232" />
+            </endOffsets>
+          </properties>
+          <option name="timeStamp" value="36" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="DotNet Breakpoints">
+          <url>file://$PROJECT_DIR$/Assets/Scripts/Coral Generation/BlocksController.cs</url>
+          <line>156</line>
+          <properties documentPath="C:\Users\43534\Github\4480\Assets\Scripts\Coral Generation\BlocksController.cs" containingFunctionPresentation="Method 'EnableBlocks'">
+            <startOffsets>
+              <option value="6295" />
+            </startOffsets>
+            <endOffsets>
+              <option value="6336" />
+            </endOffsets>
+          </properties>
+          <option name="timeStamp" value="37" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="DotNet Breakpoints">
+          <url>file://$PROJECT_DIR$/Assets/Scripts/Coral Generation/BlocksController.cs</url>
+          <line>160</line>
+          <properties documentPath="C:\Users\43534\Github\4480\Assets\Scripts\Coral Generation\BlocksController.cs" containingFunctionPresentation="Method 'EnableBlocks'">
+            <startOffsets>
+              <option value="6479" />
+            </startOffsets>
+            <endOffsets>
+              <option value="6497" />
+            </endOffsets>
+          </properties>
+          <option name="timeStamp" value="38" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="DotNet Breakpoints">
+          <url>file://$PROJECT_DIR$/Assets/Scripts/Coral Generation/BlocksController.cs</url>
+          <line>53</line>
+          <properties documentPath="C:\Users\43534\Github\4480\Assets\Scripts\Coral Generation\BlocksController.cs" containingFunctionPresentation="Method 'Awake'">
+            <startOffsets>
+              <option value="1922" />
+            </startOffsets>
+            <endOffsets>
+              <option value="1964" />
+            </endOffsets>
+          </properties>
+          <option name="timeStamp" value="39" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="DotNet Breakpoints">
+          <url>file://$PROJECT_DIR$/Assets/Scripts/Coral Generation/BlocksController.cs</url>
+          <line>54</line>
+          <properties documentPath="C:\Users\43534\Github\4480\Assets\Scripts\Coral Generation\BlocksController.cs" containingFunctionPresentation="Method 'Awake'">
+            <startOffsets>
+              <option value="2016" />
+            </startOffsets>
+            <endOffsets>
+              <option value="2053" />
+            </endOffsets>
+          </properties>
+          <option name="timeStamp" value="41" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>

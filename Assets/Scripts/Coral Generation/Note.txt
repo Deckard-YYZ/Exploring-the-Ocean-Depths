@@ -1,0 +1,4 @@
+Use SortedHeightObjectGenerator to generate the scriptable objects (Run once before the built)
+Then for each save, use the seed and coral generator to build the scenes
+
+
