@@ -5,7 +5,7 @@
 
 <summary>English Introduction</summary><br>
 
-An **educational application built with Unity 3D**, allowing users to virtually explore the **Atlantic Ocean floor and marine ecosystems**.  
+An **educational application built with Unity 3D**, allowing users to virtually explore the **ocean floor and marine ecosystems**.  
 The project combines **real-world 3D scanned terrain data**, **interactive mini-games**, and **immersive audio-visual effects** to make ocean science more engaging and accessible.  
 
 
@@ -62,6 +62,7 @@ The project combines **real-world 3D scanned terrain data**, **interactive mini-
 
 
 </details>
+
 
 
 
