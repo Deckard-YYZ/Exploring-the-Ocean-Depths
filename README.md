@@ -56,7 +56,7 @@ The project combines **real-world 3D scanned terrain data**, **interactive mini-
 
 ### ⚡ 性能优化
 - 基于超大规模 **3D 扫描地形**，实现 **按区块加载与流式显示**  
-- 结合 LOD 降低显存占用，保证 **70+ FPS 稳定帧率**   
+- 结合 LOD 降低显存占用，保证 **70+ FPS 稳定帧率**  
 
 
 
