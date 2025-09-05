@@ -1,4 +1,5 @@
 # Exploring-the-Ocean-Depths
+<img width="2559" height="1439" alt="Screenshot_1" src="https://github.com/user-attachments/assets/a52e9e1e-99fd-4ae1-8d8f-425000b32ada" />
 
 <details>
 
@@ -61,6 +62,7 @@ The project combines **real-world 3D scanned terrain data**, **interactive mini-
 
 
 </details>
+
 
 
 
