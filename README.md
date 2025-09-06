@@ -13,7 +13,7 @@ The project combines **real-world 3D scanned terrain data**, **interactive mini-
 
 ### 🌊 Immersive Underwater Experience
 - Underwater VFX (lighting, fog, refraction, scattering) simulating different diving depths  
-- Ambient sound and background music for immersion  
+- Ambient sound and background music for immersion （Created by Lee Hiu Yi Joyce）
 
 ### 🪸 Procedural Ecosystems
 - **Coral colony generation algorithm** with adjustable global/local density and distribution  
@@ -43,7 +43,7 @@ The project combines **real-world 3D scanned terrain data**, **interactive mini-
 
 ### 🌊 沉浸式水下体验
 - 水下 VFX 效果（光照、雾效、折射、散射），模拟不同深度的潜水体验  
-- 背景音乐与环境音效增强沉浸感  
+- 背景音乐与环境音效增强沉浸感 (由Lee Hiu Yi Joyce创作)
 
 ### 🪸 程序化生成生态系统
 - **珊瑚群落生成算法**：支持整体/局部密度、分布度调节  
@@ -60,8 +60,8 @@ The project combines **real-world 3D scanned terrain data**, **interactive mini-
 
 
 
-
 </details>
+
 
 
 
